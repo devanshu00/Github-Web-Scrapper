@@ -8,4 +8,4 @@ https://github.com/topics
 
 Copy Extract data to pdf file 
 
-All extracted data is pushed into pdf file and is created in same project folder. This is done with json2xls library.
+All extracted data is pushed into pdf file and is created in same project folder.  
